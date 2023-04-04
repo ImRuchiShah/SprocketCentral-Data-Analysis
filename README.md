@@ -3,16 +3,16 @@
 Sprocket Central is a company that specializes in high-quality bikes and cycling accessories. 
 
 #### Goal:
-The marketing team of the organisation is looking to otimise its marketing strategy by analysing their existing customer dataset to determine customer trends and behaviour. 
+The marketing team of the organisation is to optimise its marketing strategy by analysing their existing customer dataset to determine customer trends and behaviour. 
 
-The aim is to analyze and recommend 1000 customers that Sproket Central should target using three datasets.
+The aim is to analyze and recommend 1000 customers that Sproket Central should target.
 
 #### Dataset:
 The client provided KPMG with 3 datasets:
 
 - Customer Demographic
 - Customer Addresses
-- Transactions data in the past 3 months
+- Transactions data
 
 #### Tasks to be performed:
 To assess the quality of their data; as well as make recommendations on ways to clean the underlying data and mitigate these issues.
