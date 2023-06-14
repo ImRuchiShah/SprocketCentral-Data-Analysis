@@ -1,4 +1,4 @@
-# KPMG-Virtual-Internship-Data-Analysis
+# Sprocket Central-Data-Analysis
 
 Sprocket Central is a company that specializes in high-quality bikes and cycling accessories. 
 
@@ -8,7 +8,7 @@ The marketing team of the organisation is to optimise its marketing strategy by 
 The aim is to analyze and recommend 1000 customers that Sproket Central should target.
 
 #### Dataset:
-The client provided KPMG with 3 datasets:
+The client provided with 3 datasets:
 
 - Customer Demographic
 - Customer Addresses
